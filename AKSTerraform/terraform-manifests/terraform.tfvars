@@ -1,0 +1,7 @@
+location              = "East US"
+resource_group_name   = "nprd_rg"
+storage_account_name  = "abhi281"
+container_name        = "tfstate"
+aks_cluster_name      = "nprd-aks"
+subnet_name           = "nprd1"
+vnet_name             = "nprd"
