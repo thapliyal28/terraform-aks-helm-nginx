@@ -32,6 +32,7 @@
 ***Steps***:-
 
 ***1) Set Up Azure Resources with Terraform.***
+
     * Create Azure Resource Group.
     * Deploy Azure Kubernetes Service (AKS).
     * Store Terraform state in Azure Storage.
