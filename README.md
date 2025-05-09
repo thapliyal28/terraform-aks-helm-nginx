@@ -32,10 +32,10 @@
 ***Steps***:-
 
 ***1) Set Up Azure Resources with Terraform.***
-    * Create Azure Resource Group
-    * Deploy Azure Kubernetes Service (AKS)
+    * Create Azure Resource Group.
+    * Deploy Azure Kubernetes Service (AKS).
     * Store Terraform state in Azure Storage.
-    * Get the Kubeconfig to connect to the AKS cluster
+    * Get the Kubeconfig to connect to the AKS cluster.
 
     cd AKSTerraform/terraform-manifests
     az login # to login to Azure account
