@@ -1,4 +1,4 @@
-***Objective***:- Using Terrafrom and helm and Azure capabilities. We will be  setting up Azure Kubernetes Service (AKS) + NGINX + Ingress with SSL using Terraform & Helm.
+***Objective***:- Using Terraform , helm and Azure capabilities. We will be  setting up Azure Kubernetes Service (AKS) + NGINX + Ingress with SSL using Terraform & Helm.
 
 ***Prerequisites***:-
   * Azure CLI installed and authenticated.
